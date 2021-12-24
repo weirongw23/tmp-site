@@ -62,6 +62,10 @@ html {
 	}
 }
 
+::selection {
+	background-color: #ffeaa7;
+}
+
 html,
 body {
 	height: 100%;
