@@ -1230,8 +1230,8 @@ header .logo a {
 	float: left;
 	width: 40px;
 	height: 40px;
-	margin-left: 10px;
-	margin-top: 10px;
+	margin-left: 0px;
+	margin-top: 2px;
 	display: block;
 	position: relative;
 	background: rgba(255, 0, 119, 0.2);
